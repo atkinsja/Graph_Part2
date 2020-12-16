@@ -1,0 +1,10 @@
+Atlanta       Houston  650   Washington   600 #
+Austin     Dallas   200  Houston   300 #
+Buffalo     New_York  450   Newark  300   #
+Chicago     Denver  550   New_York  950   #
+Dallas     Austin    200  Chicago    1500 #
+Denver     Atlanta    800   Chicago   550 #
+Houston     Atlanta    650 #
+Newark         #
+New_York     Chicago   950  Buffalo   450  #
+Washington    Atlanta  600  Dallas   700  #
